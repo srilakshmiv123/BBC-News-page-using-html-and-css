@@ -1,0 +1,280 @@
+
+#topbar{
+    width:1000px;
+    height:50px;
+    margin: 0 auto;
+  
+}
+body{
+   
+    padding:0;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo{
+    margin-top:2px;
+    margin-left:-100px;
+    width:100px;
+    float:left;
+    margin-right:8px;
+}
+.topbar-section{
+    float:left;
+    height:65px;
+   
+}
+#signin-image{
+    width:50px;
+    margin-left:4px;
+    margin-top:5px;
+    float:left;
+}
+#signin-text{
+    font-weight:bold;
+    font-size: 100%;
+    position: relative;
+    top:28px;
+    margin-right: 35px;
+}
+.topbar-menu{
+    font-weight: bold; 
+    font-size: 90%;
+    padding: 25px 0px 0px 10px;
+    height: 25px;
+   margin: 3px;
+   text-decoration: none !important;
+    
+}
+.topbar-menu a:hover{
+    color: black;
+    text-decoration: none;
+}
+#morebutton{
+    width:20px;
+    height:14px;
+    margin-left: 14px;
+}
+#search-box{
+    background-color: #EBEBEB;
+    border: none;
+    font-weight: bold;
+    padding:5px;
+    font-size:14px;
+    margin: 14px 0px 14px 14px;
+    float: left;
+    height: 25px;
+}
+#search-glass{
+    height: 35px;
+    margin-top: 14px;
+    margin-bottom: 1px;
+
+  
+}
+.clear{
+    clear: both;
+}
+#menu-bar-container{
+    background-color: #B80000;
+    width: 100%;
+    height: 90px;
+    border-top: 1px solid #CCCCCC;
+}
+#menu-bar{
+    width:1000px;
+    height:60px;
+    margin: 0 auto;
+    margin-bottom: 4px;
+
+}
+h1{
+    color:white;
+    padding-right:15px;
+    margin: 0;
+    font-size:40px;
+    font-weight: normal;
+    padding-top: 10px;
+    float:left;
+    margin-left: -110px;
+
+}
+#local-news{
+    border: 1px gray solid;
+    float:right;
+    width: 250px;
+    padding: 5px 5px 0 0;
+    margin: 5px 10px 0 0;
+    
+
+    
+}
+#loca-news a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+   top:8px;
+  
+
+}
+#local-news a:hover{
+    text-decoration: underline;
+    color: white;
+    
+    margin-bottom: 5px;
+}
+#menu-bar-2-container{
+    background-color: #A91717;
+    width: 100%;
+}
+#menu-bar-2{
+    width: 1000px;
+    margin: 0 auto;
+    height: 30px;
+}
+#menu-bar-2 a{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    padding:0 15px ;
+    border-right: 1px solid #BB4545;
+    font-size: 15px;
+    position: relative;
+    top: 10px;
+   
+}
+#menu-bar-2 a:hover{
+    text-decoration: underline;
+    color: white;
+    
+}
+.no-border{
+    border: none !important;
+}
+#page-container{
+    width: 1000px;
+    margin: 0 auto;
+}
+h2{
+    font-size: 20px;
+    font-weight: normal;
+    border-bottom: 3px solid #A91717;
+    width: 100px;
+}
+h3 a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+h3 a:hover{
+    color: #BC1800;
+}
+#article-summary{
+    width: 250px;
+    float: left;
+}
+.clock{
+    height: 20px;
+    position:relative; 
+    top:6px;
+}
+.topic-link {
+    color: #A91717;
+    text-decoration: none;
+    border-left: 1px solid #CCCCCC;
+    padding-left: 5px;
+}
+#article-summary a:hover{
+    color: #1167a8;
+    text-decoration: underline;
+}
+#date{
+    padding-right:10px;
+}
+#article-container{
+    float: left;
+    width: 600px;
+   
+   padding-rigth;50px
+
+}
+#article-image{
+    width: 330px;
+    height: 300px;
+}
+.article-link{
+    color: black;
+    text-decoration: none;
+}
+#watch-listen{
+    margin-right: 10px;
+
+
+
+}
+h4{
+    font-weight: normal;
+    font-size: 20px;
+}
+.article-side{
+    float: left;
+    width: 110px;
+    margin-right: 30px;
+    margin:12px ;
+    
+}
+.watch-listen-link
+{
+    text-decoration: none;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
+    
+   
+}
+.watch-listen-link:hover{
+    color: #1167a8;
+    text-decoration: underline;
+}
+#side-article{
+    float: right;
+  width: 250px;
+  position: relative;
+  top: 8px;
+  left: 50px;
+ 
+}
+#no-border{
+    border-left: none;
+    padding: 0;
+
+}
+.border-right{
+    border-right: 1px solid #CCCCCC;
+    padding-left: 10px;
+
+}
+.art-image{
+    margin-top: 20px;
+    width: 250px;
+    margin: 10px;
+   
+}
+.art-heading{
+    font-weight: bold;
+    position: relative;
+    top: 3px;
+    font-size: 18px;
+    width: 1000px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+.art-heading:hover{
+    color: #BC1800;
+    text-decoration: underline;
+}
+
+
